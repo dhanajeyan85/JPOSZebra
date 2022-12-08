@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: com.zebra.jpos.service.scanner 
+Implementation-Version: 3.06.0023
+Specification-Vendor: Zebra Technologies, Inc.
+Specification-Title: JPOS Service Classes
+Specification-Version: 3.4
+Created-By: 1.8.0_162 (Oracle Corporation)
+Implementation-Vendor: Zebra Technologies, Inc.
+
